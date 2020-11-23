@@ -1,4 +1,11 @@
+/**
+ * Method to populate the databse with some initial values
+ * @param {The firebase object used to enable the connection to the DB} firebase
+ */
 export function seedDatabase(firebase) {
+  /**
+   * Method to generate a bitwise unique ID to set as the movie or series ID.
+   */
   function getUUID() {
     // eslint gets funny about bitwise
     /* eslint-disable */
