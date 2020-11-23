@@ -21,9 +21,11 @@ Technologies used:
 - Firebase (Authentication/ storing of Movie/Series data)
 - Jest (Testing framework)
 
-The web app is fully responsive and can be used on any device.
+The web app is fully responsive and can be used on any device. 
 
-Have a look here: 
+Please sign up and have a browse :)
+
+Have a look here: https://setflix-96f6b.web.app/
 
 
 
